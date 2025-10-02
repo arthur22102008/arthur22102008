@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋olá eu sou o arthur</h1>
+<h1 align="center">Hey 👋olá eu sou o arthur e sou aprendiz de programação</h1>
 
 ###
 
